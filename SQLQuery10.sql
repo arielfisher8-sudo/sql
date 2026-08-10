@@ -1,3 +1,4 @@
+--sales tracking program
 CREATE TABLE DimCustomer
 (
     CustomerKey INT PRIMARY KEY,
