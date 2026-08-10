@@ -1,3 +1,4 @@
+--bank account management system
 create table accounts (accountHolderName varchar(100), accountNumber int, accountBalance float)
 create table transactionhistory (senderID int, recieverID int, amount float)
 
