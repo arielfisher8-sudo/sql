@@ -1,3 +1,4 @@
+--Inventory management System
 create table Customers ()
 
 create table Products(productID  int primary key, price float, inventory int)
