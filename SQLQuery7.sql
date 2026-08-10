@@ -1,3 +1,4 @@
+--Employee management system
 create table employees (EmployeeID int primary key, departmentID int, EmployeeName varchar (100), managerID int)
 
 create table Departments (deptID int primary key, deptName varchar(100))
