@@ -1,3 +1,4 @@
+--Flight booking system
 create table flights (flightID int, routename varchar(100), noOfBookings int , availableSeats int,price float)
 create table bookings (flightID int, name varchar(20), )
 
