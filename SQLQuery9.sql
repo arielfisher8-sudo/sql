@@ -1,4 +1,4 @@
-
+--Social Media System
 create table comments( contents varchar(max), userName varchar(100), originalPostID int )
 create table posts ( postID int, contents varchar(MAX) , userName varchar(100), likes int   )
 create table userActivity (userName varchar(100), dateActive date)
